@@ -1,9 +1,52 @@
-Hola, soy Victor Camacho 
-Info general:
-Ingeniero en sistemas coputacionales
-Instituto tecnologico de tepic
-22400566
+<img src="https://avatars.githubusercontent.com/u/267097653?v=4\&s=400" width="150"/>
 
-Me gustan los videojuegos
 
-Pelicula recomendada-Rango
+
+Hola Soy Victor Camacho
+
+
+
+\## Información general
+
+Carrera: Ingeniería en sistemas computacionales 
+
+Escuela: Instituto Tecnológico de Tepic
+
+Numero de control: 22400566
+
+
+
+\#Intereses
+
+Desarrollo de redes
+
+Arquitectura de computadoras
+
+Ciberseguridad
+
+
+
+\#Habilidades
+
+Manejo de redes empresariales
+
+Conociemiento de componentes internos especificos
+
+Aprendizaje Rapido
+
+Manejo de lenguajes de programación: java, java script, c++ y GDScript
+
+
+
+\#Idiomas
+
+Español 
+
+Inglés
+
+
+
+\#Pelicula recomendada
+
+Rango
+
