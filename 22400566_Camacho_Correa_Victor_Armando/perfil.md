@@ -45,6 +45,11 @@ Español
 Inglés
 
 
+\#Contacto
+
+311 301 7237
+viarcamachoco@ittepic.edu.mx
+
 
 \#Pelicula recomendada
 
